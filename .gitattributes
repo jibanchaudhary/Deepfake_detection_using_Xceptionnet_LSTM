@@ -1,3 +1,5 @@
 *.h5 filter=lfs diff=lfs merge=lfs -text
 *.npy filter=lfs diff=lfs merge=lfs -text
 LRCN_model.h5 filter=lfs diff=lfs merge=lfs -text
+features_final_400videos_71pxl.npy filter=lfs diff=lfs merge=lfs -text
+labels_final_400videos_71pxl.npy filter=lfs diff=lfs merge=lfs -text
