@@ -45,6 +45,7 @@ The AI-Generated Fake Video Detector is a web application designed to identify A
 ### **Visualizations**
 
 1. **Model Loss**
+   
    ![Model Loss](https://github.com/user-attachments/assets/f4da678b-f28f-4a70-a91e-82b72ecb0bd8)  
 
 3. **Model Accuracy**
