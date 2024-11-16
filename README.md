@@ -44,26 +44,32 @@ The AI-Generated Fake Video Detector is a web application designed to identify A
 
 ### **Visualizations**
 
-1. **Model Loss**  
+1. **Model Loss**
    ![Model Loss](https://github.com/user-attachments/assets/f4da678b-f28f-4a70-a91e-82b72ecb0bd8)  
 
-2. **Model Accuracy**  
+3. **Model Accuracy**
+   
    ![Model Accuracy](https://github.com/user-attachments/assets/e9fe98e8-8947-42da-abbf-68225e304f28)  
 
-3. **Testing Loss and Accuracy**  
+4. **Testing Loss and Accuracy**
+   
    ![Testing Loss and Accuracy](https://github.com/user-attachments/assets/e67efdeb-0c3c-4d30-83a4-63d66c3128d8)  
 
 ---
 
 ## **Output Examples**
 
-- **Real Video**:  
+- **Real Video**:
+  
   ![Real Video](https://github.com/user-attachments/assets/24b7f3ff-160d-49f4-b07f-a9bb4c28a7d9)  
 
-- **Fake Video**:  
+- **Fake Video**:
+  
   ![Fake Video](https://github.com/user-attachments/assets/508690fe-2d59-4067-81a3-9fb1453b65fe)  
 
 ---
+### **License**
+This project is licensed under the MIT License. Feel free to modify and enhance it!
 
 
 
